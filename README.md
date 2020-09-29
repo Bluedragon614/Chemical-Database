@@ -1,4 +1,4 @@
 # Chemical-Database
 School project involving OOP
 
-Make sure to place all files in the same directory for program to run properly
+Please see the wiki or follow this link for instructions: https://github.com/Bluedragon614/Chemical-Database/wiki
