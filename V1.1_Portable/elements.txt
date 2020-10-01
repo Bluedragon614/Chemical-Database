@@ -406,8 +406,8 @@ grey white
 0.82
 Rb
 Strontium
-2640.0
 87.62
+2640.0
 1377.0
 777.0
 silvery white metallic, with a pale yellow tint
@@ -944,14 +944,3 @@ colourless
 1037.0
 0.0
 Rn
-Glate
-0.0
-0.0
--2.147483648E9
--2.147483648E9
-unknown
-1000000
-0
-0.0
-1.0
-G
