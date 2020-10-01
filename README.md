@@ -9,5 +9,5 @@ The runnable version of this project is located in "V1.1_Portable"
 "V1.1_NetbeansProject contains" the files needed by the Netbeans IDE to support the viewing of the project.
 "V1.1_Raw" contains only the supporting files and the raw .java and .class files. In order to run the program with this version, you will need some form of idea to open the DatabaseRunner.java shortcut
 
-For information on the installation, running and usage of the program, see the wiki or visit this url: https://github.com/Bluedragon614/Chemical-Database/wiki
+For information on the installation, running and usage of the program, see the wiki or visit this url: https://github.com/Bluedragon614/Chemical-Database/wiki  
 User documentation is also provided in the portable version.  
